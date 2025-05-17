@@ -570,6 +570,9 @@ body:not(.user-is-tabbing) a:focus {
         flex-direction: column-reverse;
         align-items: initial;
     }
+    .nav__item{
+        transform: translateX(15px);
+    }
 }
 
 .about__photo-container img {
